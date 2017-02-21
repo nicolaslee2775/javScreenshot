@@ -1,1 +1,17 @@
 /* Empty. Add your own CSS if you like */
+
+.item-input-wrapper.valid {
+	background: none;
+}
+
+.item-input-wrapper.invalid {
+	background: #ffe1e1;
+}
+
+.av-image {
+	width: 100%
+}
+
+.av-image.screenshotL {
+	width: 100%
+}

@@ -1,4 +1,13 @@
 {
   "name": "javScreenshot",
-  "app_id": ""
+  "app_id": "",
+  "gulpStartupTasks": [
+    "default",
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
 }
